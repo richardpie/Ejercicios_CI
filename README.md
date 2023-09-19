@@ -6,4 +6,4 @@ Para poder abrir los archivos .pdsprj necesitamos el programa *Proteus 8*.
 
 Para poder ver la práctica, sin necesidad de de instalar el programa, podemos encontrar un video demo en la carpeta *Demo*.
 
-El código fuente en .c está en la carpeta *Source* de cada práctica (no se incuyen los headers).
+El código fuente en .c está en la carpeta *Source* de cada práctica (no se incuyen los .h).
